@@ -5,15 +5,15 @@
 
 1.先将工程文件克隆到本地，在终端输入：
 
-'git clone https://github.com/hyx007/SlamBookExercisesAnalysis.git'
+git clone https://github.com/hyx007/SlamBookExercisesAnalysis.git
 
 2.打开工程文件，在终端输入：
 
-'cd SlamBookExercisesAnalysis'
+cd SlamBookExercisesAnalysis
 
 3.创建以自己名字为命名的分支，比如我的名字是huangyuxi,则在终端输入：
 
-'git checkout -b huangyuxi'
+git checkout -b huangyuxi
 
 注意，这里一定要将huangyuxi改成自己的名字拼音
 
@@ -21,19 +21,19 @@
 
 5.查看修改：
 
-'git status'
+git status
 
 6.添加修改：
 
-'git add .'
+git add .
 
 7.添加修改注释：
 
-'add new chapter files'
+add new chapter files
 
 8.将修改上传至git，这里与第3条一样，要将huangyuxi替换成你刚刚创建的分支的名字，也就是你名字的拼音:
 
-'git push origin huangyuxi'
+git push origin huangyuxi
 
 注意！！！要将huangyuxi替换成你刚刚创建的分支的名字，也就是你名字的拼音！！
 
